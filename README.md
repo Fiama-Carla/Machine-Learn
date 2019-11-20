@@ -4,8 +4,8 @@ learning. Este trabalho desenvolvido na disciplina de 'Técnicas de Programaçã
 
 ### Autor:
 **Nome:** Fiama Carla Martins de Sousa - 472959
-**Curso:** Engenharia da computação
-**Instituição:** Universidade Federal do Ceará.
+ **Curso:** Engenharia da computação
+ **Instituição:** Universidade Federal do Ceará.
 
 ### Clonando Repositório
 No canto esquerdo da tela, há um botão de verde  (clone or download), clique nele e  selecione a opção 'Download.zip'. Após isso ter sido feito abra a pasta onde o dowload foi feito e exrtraia os arquivos.
